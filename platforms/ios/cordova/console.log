@@ -1,0 +1,13 @@
+2014-10-21 13:12:45.208 My First fw7 App[23767:517816] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/lsilvs/Library/Developer/CoreSimulator/Devices/5A57293A-F898-4424-BE48-7842D99117F9/data/Containers/Data/Application/F88095A6-4F24-479D-9A35-C95B003553CF/Library/Cookies/Cookies.binarycookies
+2014-10-21 13:12:45.356 My First fw7 App[23767:517816] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-21 13:12:45.357 My First fw7 App[23767:517816] Multi-tasking -> Device: YES, App: YES
+2014-10-21 13:12:45.400 My First fw7 App[23767:517816] Unlimited access to network resources
+2014-10-21 13:12:45.410 My First fw7 App[23767:517816] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-21 13:12:47.635 My First fw7 App[23767:517816] Resetting plugins due to page load.
+2014-10-21 13:12:47.865 My First fw7 App[23767:517816] Finished load of: file:///Users/lsilvs/Library/Developer/CoreSimulator/Devices/5A57293A-F898-4424-BE48-7842D99117F9/data/Containers/Bundle/Application/15B38BDD-BF5E-4C5E-96AB-F5D8C6EF9CF3/My%20First%20fw7%20App.app/www/index.html
